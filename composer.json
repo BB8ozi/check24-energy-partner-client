@@ -1,8 +1,8 @@
 {
     "name": "check24_energy/partner_client",
-    "description": "",
-    "type": "library",
-    "require": {
+    "description": "Strom",
+    "type": "Project",
+    "require": {check24_energy/partner_client
         "php": ">=5.3.3",
         "ext-curl": "*",
         "ext-json": "*"
